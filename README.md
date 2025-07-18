@@ -1,5 +1,5 @@
 <div style="display: inline-block;">
-  <img src="https://github.com/yashwanths814/NSS-Website/blob/main/images/nss1.png" alt="NSS Logo" width="100" align="left"; margin-right: 20px;">
+  <img src="https://github.com/yashwanths814/NSS-Website/blob/main/images/nss1.png" alt="NSS Logo" width="120" align="left"; margin-right: 20px;">
   <p>
     This website was built to represent and serve the <strong>National Service Scheme (NSS)</strong> unit of 
     <a href="https://vvce.ac.in/">Vidyavardhaka College of Engineering (VVCE)</a>, Mysuru. It functions as a digital hub 
